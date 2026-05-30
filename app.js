@@ -458,7 +458,7 @@ const questions = [
       text: "zero"
     }
   ],
-  correctAnswers: ["c"],
+  correctAnswers: ["a"],
   explanation: "Răspunsul corect este C. Pentru montajul indicat în figură, tensiunea măsurată de voltmetru este zero."
 },
 {
